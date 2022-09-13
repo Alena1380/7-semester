@@ -31,4 +31,5 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
   Комментарии к коду
   Умение работать с системой контроля версий.
   Умение работать с readme.md
+  
 локальный гит http://192.168.1.20:3000/ задание : https://github.com/Julia-Zhirnova/Demoekzamen
